@@ -1,0 +1,12 @@
+{
+  "name": "graphql-server-dem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-koa": "^2.8.2",
+    "graphql": "^14.4.2",
+    "koa": "^2.8.1",
+    "moment": "^2.24.0"
+  }
+}
